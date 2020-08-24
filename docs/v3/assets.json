@@ -1,0 +1,24 @@
+[
+  {
+    "Id": "94b00f50-5896-479c-b0c5-ff74603b35a3",
+    "Title": "Clound Login",
+    "Description": "",
+    "Url": "https://content.development.clicklearn.dk/cloud/clicklearn222/00000000-0000-0000-0000-000000000000/3FD82C1C-5B01-4830-B55D-14E49C401B50.1033/MS%20Outlook.htm?b=New%20book&r=OutlookWeb",
+    "TechnologyId": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
+    "SubjectId": "",
+    "Source": "ClickLearn",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "0cf0055d-49f8-464e-9dfa-8f582b32453b",
+    "Title": "Structure Demo",
+    "Description": "",
+    "Url": "https://content.development.clicklearn.dk/cloud/clicklearn222/00000000-0000-0000-0000-000000000000/3FD82C1C-5B01-4830-B55D-14E49C401B50.1033/MS%20Outlook.htm?b=New%20book&r=OutlookWeb",
+    "TechnologyId": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
+    "SubjectId": "",
+    "Source": "ClickLearn",
+    "StatusTagId": "",
+    "StatusNote": ""
+  }
+]
