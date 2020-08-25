@@ -10,7 +10,7 @@
     {
       "Id": "646b4eb4-32c0-4fdc-93fa-0ef895470b74",
       "Name": "Get started",
-      "Image": "",
+      "Image": "categories/EmptyProject-logo.png",
       "TechnologyId": "",
       "SubjectId": "",
       "Source": "ClickLearn",
@@ -18,7 +18,7 @@
         {
           "Id": "9bde32c3-2f0b-4201-b4a3-74cef2c8f61d",
           "Name": "First days",
-          "Image": "categories/EmptyProject-logo.png",
+          "Image": "categories/Recording.png",
           "TechnologyId": "",
           "SubjectId": null,
           "Source": "Microsoft",
@@ -29,7 +29,7 @@
     {
       "Id": "4f7378cd-7c40-4a99-9617-94681300c828",
       "Name": "Recordings",
-      "Image": "",
+      "Image": "categories/EmptyProject-logo.png",
       "TechnologyId": "",
       "SubjectId": "",
       "Source": "ClickLearn",
@@ -37,7 +37,7 @@
         {
           "Id": "07aa7fb7-a187-4a04-a044-f881626a8cba",
           "Name": "Recordings of different Sites",
-          "Image": "categories/EmptyProject-logo.png",
+          "Image": "categories/Recording.png",
           "TechnologyId": "",
           "SubjectId": null,
           "Source": "Microsoft",
