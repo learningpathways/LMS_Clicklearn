@@ -10,6 +10,7 @@
   },
   "ContentPacks": [],
   "AssetOrigins": [
+    "https://github.com",
     "https://content.development.clicklearn.dk",
     "https://login.microsoftonline.com",
     "https://support.office.com",
