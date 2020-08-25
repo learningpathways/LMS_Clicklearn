@@ -1,8 +1,8 @@
 [
   {
     "Id": "a8cbac83-f7e8-45ff-a4a6-6b04f31a5745",
-    "Title": "Steps for Calculator",
-    "Image": "images/playlists/EmptyProject-logo.png",
+    "Title": "Calculator",
+    "Image": "images/playlists/Recording.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
     "TechnologyId": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
@@ -18,8 +18,8 @@
   },
   {
     "Id": "7450f58a-517f-48ae-bace-248346e52275",
-    "Title": "Steps for New Customer in Business Central",
-    "Image": "images/playlists/EmptyProject-logo.png",
+    "Title": "New Customer in Business Central",
+    "Image": "images/playlists/Recording.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
@@ -37,8 +37,8 @@
   },
   {
     "Id": "e6656c9b-a36a-4143-8fe4-5b6de0d9486b",
-    "Title": "Steps for ClickLearn Studio License",
-    "Image": "images/playlists/EmptyProject-logo.png",
+    "Title": "ClickLearn Studio License",
+    "Image": "images/playlists/Recording.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
@@ -55,7 +55,7 @@
   {
     "Id": "9baa4835-b7d5-4e7e-8bea-0a53a1b91229",
     "Title": "Supply Chain Report",
-    "Image": "images/playlists/EmptyProject-logo.png",
+    "Image": "images/playlists/Recording.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
@@ -72,7 +72,7 @@
   {
     "Id": "94333445-037d-4222-aa99-a84b1f6125f0",
     "Title": "IFS/Quality Management",
-    "Image": "images/playlists/EmptyProject-logo.png",
+    "Image": "images/playlists/Recording.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
@@ -95,7 +95,7 @@
   {
     "Id": "50f79020-4453-479a-a7db-301f8863a5a3",
     "Title": "Power Learning",
-    "Image": "images/playlists/EmptyProject-logo.png",
+    "Image": "images/playlists/Recording.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
@@ -112,7 +112,7 @@
   {
     "Id": "6988bd71-e905-4699-a25c-ba148d6e5bad",
     "Title": "ClickLearn Studio",
-    "Image": "images/playlists/EmptyProject-logo.png",
+    "Image": "images/playlists/Recording.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
