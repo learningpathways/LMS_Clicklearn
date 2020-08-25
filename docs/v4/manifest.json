@@ -10,6 +10,7 @@
   },
   "ContentPacks": [],
   "AssetOrigins": [
+    "https://login.microsoftonline.com",
     "https://support.office.com",
     "https://docs.microsoft.com"
   ],
