@@ -83,14 +83,8 @@
       "SubjectId": "",
       "Source": "ClickLearn",
       "SubCategories": [
-        {
-          "Id": "07aa7fb7-a187-4a04-a044-f881626a8cba",
-          "Name": "ClickLearn's different Connector product",
-          "Image": "categories/products.png",
-          "TechnologyId": "",
-          "SubjectId": null,
-          "Source": "ClickLearn",
-          "SubCategories": [
+        
+         
               {
               "Id": "46589138-0dde-4ea5-b9a1-313481a8eb06",
               "Name": "Outlook",
@@ -172,8 +166,8 @@
           "Source": "Microsoft",
           "SubCategories": []
         }
-          ]
-        }
+          
+        
       ]
     }
   ],
