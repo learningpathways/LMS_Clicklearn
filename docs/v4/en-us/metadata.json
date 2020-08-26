@@ -215,7 +215,7 @@
     "Manifest": "v3",
     "ManifestMinWebPart": "3.0.0",
     "CurrentWebPart": "3.0.0",
-    "RepoURL": "https://github.com/learningpathways/ClRecordings"
+    "RepoURL": "https://github.com/learningpathways/ClPathwayWithoutAPI"
   },
   "ContentPacks": [],
   "AssetOrigins": [
