@@ -110,7 +110,26 @@
           "SubCategories": []
         }
       ]
-    }
+    },
+     {
+      "Id": "4f7378cd-7c40-4a99-9617-94681300c828",
+      "Name": "Web Recordings",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Microsoft",
+      "SubCategories": [
+        {
+          "Id": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
+          "Name": "Web Portal",
+          "Image": "categories/Recording.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "Microsoft",
+          "SubCategories": []
+        }
+      ]
+    },
   ],
   "Audiences": [
     {
