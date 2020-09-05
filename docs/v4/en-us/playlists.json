@@ -2,7 +2,7 @@
    {
     "Id": "9baa4835-b7d5-4e7e-8bea-0a53a1b91229",
     "Title": "Intro to Microsoft Teams",
-    "Image": "playlists/teams.png",
+    "Image": "playlists/jug.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
@@ -19,7 +19,7 @@
   {
     "Id": "94333445-037d-4222-aa99-a84b1f6125f0",
     "Title": "Get your team up and running",
-    "Image": "playlists/QuickBook.png",
+    "Image": "playlists/jug.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "054bac6f-2670-4cd1-8b38-087ff82754a2",
@@ -38,7 +38,7 @@
   {
     "Id": "50f79020-4453-479a-a7db-301f8863a5a3",
     "Title": "Collaborate in teams and channels",
-    "Image": "playlists/Sap4Hana.png",
+    "Image": "playlists/userCard.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "3edeb182-3828-4a83-aef9-928a2693e288",
@@ -56,7 +56,7 @@
   {
     "Id": "6988bd71-e905-4699-a25c-ba148d6e5bad",
     "Title": "Upload and find files",
-    "Image": "playlists/PowerApps.png",
+    "Image": "playlists/userCard.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "",
@@ -73,7 +73,7 @@
   {
     "Id": "3ee48085-019d-4256-9ad5-c2d03c82238c",
     "Title": "Start chats and calls",
-    "Image": "playlists/EOI.png",
+    "Image": "playlists/start.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "",
@@ -92,7 +92,7 @@
   {
     "Id": "7450f58a-517f-48ae-bace-248346e52275",
     "Title": "Work with posts and messages",
-    "Image": "playlists/EOI.png",
+    "Image": "playlists/userCard.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "",
@@ -109,7 +109,7 @@
    {
     "Id": "842fb550-07cb-42d1-9a9f-c55789efed57",
     "Title": "Manage meetings",
-    "Image": "playlists/EOI.png",
+    "Image": "playlists/user.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "",
@@ -132,7 +132,7 @@
    {
     "Id": "5223233d-ee42-4331-bb63-6495a5039cc0",
     "Title": "Set up and attend live events",
-    "Image": "playlists/EOI.png",
+    "Image": "playlists/question.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "",
@@ -151,7 +151,7 @@
    {
     "Id": "36bcd322-8344-4a41-973a-1e811add5476",
     "Title": "Services",
-    "Image": "playlists/EOI.png",
+    "Image": "playlists/book.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "",
@@ -168,7 +168,7 @@
     {
     "Id": "96450812-b6e6-49d0-909a-fdba33ad08b4",
     "Title": "Sales",
-    "Image": "playlists/EOI.png",
+    "Image": "playlists/sales.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "",
@@ -187,7 +187,7 @@
     {
     "Id": "ab8f6cb4-107a-4f77-b107-be18beb67b33",
     "Title": "Marketing",
-    "Image": "playlists/EOI.png",
+    "Image": "playlists/book.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "",
@@ -205,7 +205,7 @@
     {
     "Id": "b55517cc-a4f4-405b-b46f-977f39a91e3c",
     "Title": "Field Service",
-    "Image": "playlists/EOI.png",
+    "Image": "playlists/Settings.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "",
