@@ -147,5 +147,73 @@
       "8d2399ed-748e-4fb5-95c9-eed8177f116d",
       "74ce8afc-2446-4816-80ee-20ca7fb71793"
     ]
+  },
+   {
+    "Id": "36bcd322-8344-4a41-973a-1e811add5476",
+    "Title": "Services",
+    "Image": "playlists/EOI.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "ClickLearn",
+    "CatId": "9eb8fc25-dd5b-4459-81e9-ae382aca7a78",
+    "Description": "Learn About CRM features and benifits",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+     
+    ]
+  },
+    {
+    "Id": "96450812-b6e6-49d0-909a-fdba33ad08b4",
+    "Title": "Sales",
+    "Image": "playlists/EOI.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "ClickLearn",
+    "CatId": "9eb8fc25-dd5b-4459-81e9-ae382aca7a78",
+    "Description": "Learn About CRM features and benifits",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+     
+    ]
+  },
+    {
+    "Id": "ab8f6cb4-107a-4f77-b107-be18beb67b33",
+    "Title": "Marketing",
+    "Image": "playlists/EOI.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "ClickLearn",
+    "CatId": "9eb8fc25-dd5b-4459-81e9-ae382aca7a78",
+    "Description": "Learn About CRM features and benifits",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+     
+    ]
+  },
+    {
+    "Id": "b55517cc-a4f4-405b-b46f-977f39a91e3c",
+    "Title": "Field Service",
+    "Image": "playlists/EOI.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "ClickLearn",
+    "CatId": "9eb8fc25-dd5b-4459-81e9-ae382aca7a78",
+    "Description": "Learn About CRM features and benifits",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+     
+    ]
   }
 ]
