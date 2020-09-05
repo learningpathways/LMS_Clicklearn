@@ -207,6 +207,85 @@
     "Source": "ClickLearn",
     "StatusTagId": "",
     "StatusNote": ""
+  },
+    {
+    "Id": "4d39f76b-ee15-4029-8a4c-fa7d14f0c80f",
+    "Title": "Create a Case",
+    "Description": "",
+    "Url": "https://content.clicklearn.dk/public/clicklearn/Dynamics%20365%20CE%20Learning%20Portal%20Assist%20project.1033/Dynamics%20365%20CE%20Learning%20Portal%20Assist%20project.htm?b=Services&r=Create%20a%20Case",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "ClickLearn",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+   {
+    "Id": "e33f0fd2-f936-4c5b-a0c6-552da24fe00e",
+    "Title": "Create a Lead",
+    "Description": "",
+    "Url": "https://content.clicklearn.dk/public/clicklearn/Dynamics%20365%20CE%20Learning%20Portal%20Assist%20project.1033/Dynamics%20365%20CE%20Learning%20Portal%20Assist%20project.htm?b=Sales&r=Create%20a%20Lead",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "ClickLearn",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "1b661d1e-c4a6-4613-98b1-b09bb05473c8",
+    "Title": "Create a Lead",
+    "Description": "",
+    "Url": "https://content.clicklearn.dk/public/clicklearn/Dynamics%20365%20CE%20Learning%20Portal%20Assist%20project.1033/Dynamics%20365%20CE%20Learning%20Portal%20Assist%20project.htm?b=Sales&r=Create%20an%20account",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "ClickLearn",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+   {
+    "Id": "38a368cf-15b6-4ca0-804c-8d0fdc5f3683",
+    "Title": "Add a Contact to an Accoun",
+    "Description": "",
+    "Url": "https://content.clicklearn.dk/public/clicklearn/Dynamics%20365%20CE%20Learning%20Portal%20Assist%20project.1033/Dynamics%20365%20CE%20Learning%20Portal%20Assist%20project.htm?b=Sales&r=Add%20a%20Contact%20to%20an%20Account",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "ClickLearn",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+    {
+    "Id": "d1233064-273d-4d58-a955-686688f4b529",
+    "Title": "Create a Marketing list",
+    "Description": "",
+    "Url": "https://content.clicklearn.dk/public/clicklearn/Dynamics%20365%20CE%20Learning%20Portal%20Assist%20project.1033/Dynamics%20365%20CE%20Learning%20Portal%20Assist%20project.htm?b=Marketing&r=Create%20a%20Marketing%20list",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "ClickLearn",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+   {
+    "Id": "b65ec000-8e8e-47c6-b05c-d2763fe95d42",
+    "Title": "Add Leads to a Marketing List",
+    "Description": "",
+    "Url": "https://content.clicklearn.dk/public/clicklearn/Dynamics%20365%20CE%20Learning%20Portal%20Assist%20project.1033/Dynamics%20365%20CE%20Learning%20Portal%20Assist%20project.htm?b=Marketing&r=Add%20Leads%20to%20a%20Marketing%20List",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "ClickLearn",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+    {
+    "Id": "6f208b1e-32a8-4cb3-9966-6bf5d04d6a52",
+    "Title": "Create a Field Service Work Order",
+    "Description": "",
+    "Url": "https://content.clicklearn.dk/public/clicklearn/Dynamics%20365%20CE%20Learning%20Portal%20Assist%20project.1033/Dynamics%20365%20CE%20Learning%20Portal%20Assist%20project.htm?b=Field%20Service&r=Create%20a%20Field%20Service%20Work%20Order",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "ClickLearn",
+    "StatusTagId": "",
+    "StatusNote": ""
   }
+  
+  
  
 ]
