@@ -162,7 +162,7 @@
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
-     
+     "4d39f76b-ee15-4029-8a4c-fa7d14f0c80f"
     ]
   },
     {
@@ -179,7 +179,9 @@
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
-     
+     "e33f0fd2-f936-4c5b-a0c6-552da24fe00e",
+       "1b661d1e-c4a6-4613-98b1-b09bb05473c8",
+       "38a368cf-15b6-4ca0-804c-8d0fdc5f3683"
     ]
   },
     {
@@ -196,7 +198,8 @@
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
-     
+     "d1233064-273d-4d58-a955-686688f4b529",
+       "b65ec000-8e8e-47c6-b05c-d2763fe95d42"
     ]
   },
     {
@@ -213,7 +216,7 @@
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
-     
+     "6f208b1e-32a8-4cb3-9966-6bf5d04d6a52"
     ]
   }
 ]
