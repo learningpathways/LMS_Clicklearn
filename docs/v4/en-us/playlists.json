@@ -1,101 +1,7 @@
 [
-  {
-    "Id": "a8cbac83-f7e8-45ff-a4a6-6b04f31a5745",
-    "Title": "Teams",
-    "Image": "playlists/Playlist_bg.png",
-    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
-    "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
-    "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
-    "SubjectId": "",
-    "Source": "ClickLearn",
-    "CatId": "46589138-0dde-4ea5-b9a1-313481a8eb06",
-    "Description": "Learn About Teams features and benifits",
-    "StatusTagId": "",
-    "StatusNote": "",
-    "Assets": [
-      "1404c8ee-ea47-4e4b-a6a0-9bd694eb8c7d",
-      "038055a0-9ba8-4f70-9a00-84bd41a48a3f",
-      "1f0532af-5e59-45e6-830f-0c058157d90c",
-      "d7fc5918-12a9-4f99-bd35-e80660468efd",
-      "5223233d-ee42-4331-bb63-6495a5039cc0"
-    ]
-  },
-  {
-    "Id": "842fb550-07cb-42d1-9a9f-c55789efed57",
-    "Title": "QuickBook",
-    "Image": "playlists/Playlist_bg.png",
-    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
-    "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
-    "TechnologyId": "054bac6f-2670-4cd1-8b38-087ff82754a2",
-    "SubjectId": "",
-    "Source": "ClickLearn",
-    "CatId": "4ee4d22a-7d53-48bb-9a14-adf34d01cd75",
-    "Description": "Learn About Quick Book features and benifits",
-    "StatusTagId": "",
-    "StatusNote": "",
-    "Assets": [
-      "65f504d8-160b-4a05-ac30-46fbd5227a52",
-      "707db3cb-e41e-495d-a592-464b9fbee17d"
-    ]
-  },
-  {
-    "Id": "7450f58a-517f-48ae-bace-248346e52275",
-    "Title": "Sap4Hana",
-    "Image": "playlists/Playlist_bg.png",
-    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
-    "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
-    "TechnologyId": "3edeb182-3828-4a83-aef9-928a2693e288",
-    "SubjectId": "",
-    "Source": "ClickLearn",
-    "CatId": "f9b14990-420a-4678-87a8-8428928186c6",
-    "Description": "Learn About Sap4Hana features and benifits",
-    "StatusTagId": "",
-    "StatusNote": "",
-    "Assets": [
-      "422bf3aa-9ae8-46f1-83a2-e65720e1a34d",
-      "6723dc43-dbc0-46e6-af49-8a2d1c5cb937"
-    ]
-  },
-  {
-    "Id": "59b01879-ea2a-4f76-b2e4-e437fc45c61d",
-    "Title": "PowerApps",
-    "Image": "playlists/Playlist_bg.png",
-    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
-    "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
-    "TechnologyId": "",
-    "SubjectId": "",
-    "Source": "ClickLearn",
-    "CatId": "85c785c2-c873-4483-9728-64a367fee3f1",
-    "Description": "Learn About PowerApps features and benifits",
-    "StatusTagId": "",
-    "StatusNote": "",
-    "Assets": [
-      "d7978db0-33b5-4ad3-93ac-ef0bd3c2a670",
-      "31e38b35-96ab-447a-acb2-97bb5c0716c0"
-    ]
-  },
-  {
-    "Id": "e6656c9b-a36a-4143-8fe4-5b6de0d9486b",
-    "Title": "EOI",
-    "Image": "playlists/Playlist_bg.png",
-    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
-    "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
-    "TechnologyId": "",
-    "SubjectId": "",
-    "Source": "ClickLearn",
-    "CatId": "f05d3e34-3299-4776-a505-86f94b794194",
-    "Description": "Learn About EOI features and benifits",
-    "StatusTagId": "",
-    "StatusNote": "",
-    "Assets": [
-      "1ba8dce3-1122-47f4-8db6-00a4f93117e8",
-      "b98d533f-118e-4bae-bf44-3df2470c2b12",
-      "702a2977-e662-4038-bef5-bdf8ee47b17b"
-    ]
-  },
-  {
+   {
     "Id": "9baa4835-b7d5-4e7e-8bea-0a53a1b91229",
-    "Title": "Teams",
+    "Title": "Intro to Microsoft Teams",
     "Image": "playlists/teams.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
@@ -116,7 +22,7 @@
   },
   {
     "Id": "94333445-037d-4222-aa99-a84b1f6125f0",
-    "Title": "QuickBook",
+    "Title": "Get your team up and running",
     "Image": "playlists/QuickBook.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
@@ -134,7 +40,7 @@
   },
   {
     "Id": "50f79020-4453-479a-a7db-301f8863a5a3",
-    "Title": "Sap4Hana",
+    "Title": "Collaborate in teams and channels",
     "Image": "playlists/Sap4Hana.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
@@ -152,7 +58,7 @@
   },
   {
     "Id": "6988bd71-e905-4699-a25c-ba148d6e5bad",
-    "Title": "PowerApps",
+    "Title": "Upload and find files",
     "Image": "playlists/PowerApps.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
@@ -170,7 +76,64 @@
   },
   {
     "Id": "3ee48085-019d-4256-9ad5-c2d03c82238c",
-    "Title": "EOI",
+    "Title": "Start chats and calls",
+    "Image": "playlists/EOI.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "ClickLearn",
+    "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
+    "Description": "Learn About EOI features and benifits",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "69df61ca-f6f6-42b6-bb13-78bbd64026db",
+      "8d2399ed-748e-4fb5-95c9-eed8177f116d",
+      "74ce8afc-2446-4816-80ee-20ca7fb71793"
+    ]
+  },
+  {
+    "Id": "7450f58a-517f-48ae-bace-248346e52275",
+    "Title": "Work with posts and messages",
+    "Image": "playlists/EOI.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "ClickLearn",
+    "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
+    "Description": "Learn About EOI features and benifits",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "69df61ca-f6f6-42b6-bb13-78bbd64026db",
+      "8d2399ed-748e-4fb5-95c9-eed8177f116d",
+      "74ce8afc-2446-4816-80ee-20ca7fb71793"
+    ]
+  },
+   {
+    "Id": "842fb550-07cb-42d1-9a9f-c55789efed57",
+    "Title": "Manage meetings",
+    "Image": "playlists/EOI.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "ClickLearn",
+    "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
+    "Description": "Learn About EOI features and benifits",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "69df61ca-f6f6-42b6-bb13-78bbd64026db",
+      "8d2399ed-748e-4fb5-95c9-eed8177f116d",
+      "74ce8afc-2446-4816-80ee-20ca7fb71793"
+    ]
+  },
+   {
+    "Id": "a8cbac83-f7e8-45ff-a4a6-6b04f31a5745",
+    "Title": "Set up and attend live events",
     "Image": "playlists/EOI.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
