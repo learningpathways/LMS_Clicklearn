@@ -13,11 +13,7 @@
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
-      "e9da47c4-9b89-4b49-b945-a204aeea6726",
-      "06e7419f-fdea-4f32-bc2b-f73088410881",
-      "94708bae-df5c-4c3b-888c-621cf5d4bc94",
-      "95146525-ce4f-4ff6-a118-c0724deb1a98",
-      "0edb925e-2af7-47fb-895a-28a07d5b73d4"
+      "e9da47c4-9b89-4b49-b945-a204aeea6726"
     ]
   },
   {
@@ -34,8 +30,9 @@
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
-      "9d7d2acb-7071-4d9f-bf22-35303d7cc5f8",
-      "82cfacc1-46ed-400f-863d-1ee0400f5fa7"
+      "06e7419f-fdea-4f32-bc2b-f73088410881",
+      "94708bae-df5c-4c3b-888c-621cf5d4bc94",
+        "95146525-ce4f-4ff6-a118-c0724deb1a98"
     ]
   },
   {
@@ -52,8 +49,8 @@
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
-      "f8b36f10-c4a1-4320-9cc1-9984eb9abd45",
-      "64b51431-c51a-45db-8ddd-d58b9b101c42"
+      "0edb925e-2af7-47fb-895a-28a07d5b73d4",
+      "9d7d2acb-7071-4d9f-bf22-35303d7cc5f8"
     ]
   },
   {
@@ -70,8 +67,7 @@
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
-      "426058cb-da1f-4e45-906e-4d40f171801e",
-      "343e775c-58ee-4a3d-8d52-f4e3f5240d79"
+      "82cfacc1-46ed-400f-863d-1ee0400f5fa7"
     ]
   },
   {
@@ -88,9 +84,9 @@
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
-      "69df61ca-f6f6-42b6-bb13-78bbd64026db",
-      "8d2399ed-748e-4fb5-95c9-eed8177f116d",
-      "74ce8afc-2446-4816-80ee-20ca7fb71793"
+      "f8b36f10-c4a1-4320-9cc1-9984eb9abd45",
+      "64b51431-c51a-45db-8ddd-d58b9b101c42",
+      "426058cb-da1f-4e45-906e-4d40f171801e"
     ]
   },
   {
@@ -107,9 +103,7 @@
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
-      "69df61ca-f6f6-42b6-bb13-78bbd64026db",
-      "8d2399ed-748e-4fb5-95c9-eed8177f116d",
-      "74ce8afc-2446-4816-80ee-20ca7fb71793"
+      "343e775c-58ee-4a3d-8d52-f4e3f5240d79"
     ]
   },
    {
@@ -128,11 +122,15 @@
     "Assets": [
       "69df61ca-f6f6-42b6-bb13-78bbd64026db",
       "8d2399ed-748e-4fb5-95c9-eed8177f116d",
-      "74ce8afc-2446-4816-80ee-20ca7fb71793"
+       "74ce8afc-2446-4816-80ee-20ca7fb71793",
+       "1404c8ee-ea47-4e4b-a6a0-9bd694eb8c7d",
+       "038055a0-9ba8-4f70-9a00-84bd41a48a3f",
+       "1f0532af-5e59-45e6-830f-0c058157d90c",
+        "d7fc5918-12a9-4f99-bd35-e80660468efd"
     ]
   },
    {
-    "Id": "a8cbac83-f7e8-45ff-a4a6-6b04f31a5745",
+    "Id": "5223233d-ee42-4331-bb63-6495a5039cc0",
     "Title": "Set up and attend live events",
     "Image": "playlists/EOI.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
