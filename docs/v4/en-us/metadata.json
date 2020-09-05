@@ -121,7 +121,16 @@
       "SubCategories": [
         {
           "Id": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
-          "Name": "Web Portal",
+          "Name": "Microsoft Teams",
+          "Image": "categories/Recording.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "Microsoft",
+          "SubCategories": []
+        }
+         {
+          "Id": "9130ff2c-5549-4ffe-8dc9-4dc184241dec",
+          "Name": "Dynamics 365 CE Learning Portal",
           "Image": "categories/Recording.png",
           "TechnologyId": "",
           "SubjectId": null,
