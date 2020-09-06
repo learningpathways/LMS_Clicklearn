@@ -1,8 +1,8 @@
 <ClickLearn>
-  <ba1e299ec-7629-49c9-89c9-26cbf507b857>
-    <FullPath>C:\Projects\Microsoft Teams assist project\Add a tab to a Channel.clrx</FullPath>
+  <b55b0dc9c-a82b-45d6-91ca-4a5735bdad68>
+    <FullPath>C:\Projects\Microsoft Dynamics CE assist project\Add a Contact to an Account.clrx</FullPath>
     <User>phl</User>
-    <Connector>BWEBOUTLOOK365</Connector>
+    <Connector>BMSCRM</Connector>
     <Company>
     </Company>
     <Replayed>
@@ -10,435 +10,11 @@
     <md>
       <title>
         <lt>
-          <l lcid="1031">Hinzufügen einer Registerkarte zu einem Kanal</l>
-          <l lcid="1030">Føje en fane til en kanal</l>
-          <l lcid="1044">Legge til en fane i en kanal</l>
-        </lt>
-      </title>
-    </md>
-  </ba1e299ec-7629-49c9-89c9-26cbf507b857>
-  <B7fc30fa1-c1f1-495a-83f7-a738276f24de>
-    <FullPath>C:\Projects\Microsoft Teams assist project\Collaborate in teams and channels.clbx</FullPath>
-    <User>phl</User>
-    <Connector>
-    </Connector>
-    <Company>
-    </Company>
-    <Replayed>
-    </Replayed>
-    <md>
-      <title>
-        <lt>
-          <l lcid="1030">Samarbejde i teams og kanaler</l>
-          <l lcid="1031">Zusammenarbeit in Teams und Kanälen</l>
-          <l lcid="1044">Samarbeid i team og kanaler</l>
-        </lt>
-      </title>
-    </md>
-  </B7fc30fa1-c1f1-495a-83f7-a738276f24de>
-  <bb3a7b338-022c-40f6-b3b5-1febb14c353d>
-    <FullPath>C:\Projects\Microsoft Teams assist project\Create a Channel.clrx</FullPath>
-    <User>phl</User>
-    <Connector>BWEBOUTLOOK365</Connector>
-    <Company>
-    </Company>
-    <Replayed>
-    </Replayed>
-    <md>
-      <title>
-        <lt>
-          <l lcid="1031">Erstellen eines Kanals</l>
-          <l lcid="1030">Oprette en kanal</l>
-          <l lcid="1044">Opprette en kanal</l>
-        </lt>
-      </title>
-    </md>
-  </bb3a7b338-022c-40f6-b3b5-1febb14c353d>
-  <be2a0dde0-f003-4151-a63d-79fc07a1575c>
-    <FullPath>C:\Projects\Microsoft Teams assist project\Create a Team.clrx</FullPath>
-    <User>phl</User>
-    <Connector>BWEBOUTLOOK365</Connector>
-    <Company>
-    </Company>
-    <Replayed>
-    </Replayed>
-    <md>
-      <title>
-        <lt>
-          <l lcid="1031">Erstellen eines Teams</l>
-          <l lcid="1030">Oprette et team</l>
-          <l lcid="1044">Opprette et team</l>
-        </lt>
-      </title>
-    </md>
-  </be2a0dde0-f003-4151-a63d-79fc07a1575c>
-  <b92ab6f19-8027-465d-b4f8-4f31fbd06d37>
-    <FullPath>C:\Projects\Microsoft Teams assist project\Create and format a Post.clrx</FullPath>
-    <User>phl</User>
-    <Connector>BWEBOUTLOOK365</Connector>
-    <Company>
-    </Company>
-    <Replayed>
-    </Replayed>
-    <md>
-      <title>
-        <lt>
-          <l lcid="1031">Erstellen und Formatieren eines Beitrags</l>
-          <l lcid="1030">Oprette og formatere et indlæg</l>
-          <l lcid="1044">Opprette og formatere et innlegg</l>
-        </lt>
-      </title>
-    </md>
-  </b92ab6f19-8027-465d-b4f8-4f31fbd06d37>
-  <b5c9efb0d-8891-4132-8a4d-0a62a25fda1a>
-    <FullPath>C:\Projects\Microsoft Teams assist project\Customize and manage your team.clrx</FullPath>
-    <User>phl</User>
-    <Connector>BWEBOUTLOOK365</Connector>
-    <Company>
-    </Company>
-    <Replayed>
-    </Replayed>
-    <md>
-      <title>
-        <lt>
-          <l lcid="1031">Anpassen und Verwalten Ihres Teams</l>
-          <l lcid="1030">Tilpasse og administrere dit team</l>
-          <l lcid="1044">Tilpasse og administrere teamet ditt</l>
-        </lt>
-      </title>
-    </md>
-  </b5c9efb0d-8891-4132-8a4d-0a62a25fda1a>
-  <b85da4dd1-c149-4015-ae64-b7a13031ac9b>
-    <FullPath>C:\Projects\Microsoft Teams assist project\End a Teams meeting for everyone in attendance.clrx</FullPath>
-    <User>phl</User>
-    <Connector>BWEBTEAMS365</Connector>
-    <Company>
-    </Company>
-    <Replayed>
-    </Replayed>
-    <md>
-      <title>
-        <lt>
-          <l lcid="1030">Afslutte et holdmøde for alle, der er til stede</l>
-          <l lcid="1031">Beenden eines Teams-Meetings für alle Anwesenden</l>
-          <l lcid="3082">Fin de una reunión de equipos para todos los asistentes</l>
-          <l lcid="1044">Avslutte et teamsmøte for alle som er tilstede</l>
-        </lt>
-      </title>
-    </md>
-  </b85da4dd1-c149-4015-ae64-b7a13031ac9b>
-  <be3c47ff7-7772-40a2-821e-a33555cf07b7>
-    <FullPath>C:\Projects\Microsoft Teams assist project\Entering a meeting and setting up sound settings.clrx</FullPath>
-    <User>phl</User>
-    <Connector>BWEBTEAMS365</Connector>
-    <Company>
-    </Company>
-    <Replayed>
-    </Replayed>
-    <md>
-      <title>
-        <lt>
-          <l lcid="1030">Deltage i et møde og konfigurere lydindstillinger</l>
-          <l lcid="1031">Eingeben einer Besprechung und Einrichten von Soundeinstellungen</l>
-          <l lcid="1044">Angi et møte og konfigurere lydinnstillinger</l>
-        </lt>
-      </title>
-    </md>
-  </be3c47ff7-7772-40a2-821e-a33555cf07b7>
-  <B99fc109f-2c98-4791-bc50-675c5b801a2b>
-    <FullPath>C:\Projects\Microsoft Teams assist project\Get your team up and running.clbx</FullPath>
-    <User>phl</User>
-    <Connector>
-    </Connector>
-    <Company>
-    </Company>
-    <Replayed>
-    </Replayed>
-    <md>
-      <title>
-        <lt>
-          <l lcid="1030">Få dit team op at køre</l>
-          <l lcid="1031">Holen Sie Ihr Team auf und laufen</l>
-          <l lcid="1044">Få teamet ditt i gang</l>
-        </lt>
-      </title>
-    </md>
-  </B99fc109f-2c98-4791-bc50-675c5b801a2b>
-  <B9e80e078-cc44-4e85-8267-d5f9eaf9bf76>
-    <FullPath>C:\Projects\Microsoft Teams assist project\Intro to Microsoft Teams.clbx</FullPath>
-    <User>phl</User>
-    <Connector>
-    </Connector>
-    <Company>
-    </Company>
-    <Replayed>
-    </Replayed>
-    <md>
-      <title>
-        <lt>
-          <l lcid="1030">Introduktion til Microsoft Teams</l>
-          <l lcid="1031">Einführung in Microsoft Teams</l>
-          <l lcid="1044">Innføring i Microsoft Teams</l>
-        </lt>
-      </title>
-    </md>
-  </B9e80e078-cc44-4e85-8267-d5f9eaf9bf76>
-  <bca53e36a-15bb-4dec-9106-f6e76e30faea>
-    <FullPath>C:\Projects\Microsoft Teams assist project\Join a Meeting.clrx</FullPath>
-    <User>phl</User>
-    <Connector>BWEBTEAMS365</Connector>
-    <Company>
-    </Company>
-    <Replayed>
-    </Replayed>
-    <md>
-      <title>
-        <lt>
-          <l lcid="1030">Deltage i et møde</l>
-          <l lcid="1031">Nehmen Sie an einer Besprechung teil</l>
-          <l lcid="1044">Bli med i et møte</l>
-        </lt>
-      </title>
-    </md>
-  </bca53e36a-15bb-4dec-9106-f6e76e30faea>
-  <bb869bb45-ee0b-49cd-8c81-e1adcc4723e0>
-    <FullPath>C:\Projects\Microsoft Teams assist project\Make video and audio calls from a chat.clrx</FullPath>
-    <User>phl</User>
-    <Connector>BWEBTEAMS365</Connector>
-    <Company>
-    </Company>
-    <Replayed>
-    </Replayed>
-    <md>
-      <title>
-        <lt>
-          <l lcid="1030">Foretage video- og lydopkald fra en chat</l>
-          <l lcid="1031">Video- und Audioanrufe aus einem Chat</l>
-          <l lcid="1044">Foreta video- og lydsamtaler fra en chat</l>
-        </lt>
-      </title>
-    </md>
-  </bb869bb45-ee0b-49cd-8c81-e1adcc4723e0>
-  <Bc2dee1e0-d30e-42ed-b2d4-2344bce2c6d7>
-    <FullPath>C:\Projects\Microsoft Teams assist project\Manage meetings.clbx</FullPath>
-    <User>phl</User>
-    <Connector>
-    </Connector>
-    <Company>
-    </Company>
-    <Replayed>
-    </Replayed>
-    <md>
-      <title>
-        <lt>
-          <l lcid="1030">Administrere møder</l>
-          <l lcid="1031">Verwalten von Besprechungen</l>
-          <l lcid="1044">Administrere møter</l>
-        </lt>
-      </title>
-    </md>
-  </Bc2dee1e0-d30e-42ed-b2d4-2344bce2c6d7>
-  <Scc1f42d5-ba83-47d8-b7aa-b58d7eb36f1b>
-    <FullPath>C:\Projects\Microsoft Teams assist project\Microsoft Teams Learning Portal.clsx</FullPath>
-    <User>phl</User>
-    <Connector>
-    </Connector>
-    <Company>
-    </Company>
-    <Replayed>
-    </Replayed>
-    <md>
-      <title>
-        <lt>
-          <l lcid="1030">Microsoft Teams</l>
-          <l lcid="1033">Microsoft Teams</l>
-          <l lcid="1031">Microsoft Teams</l>Microsoft Teams<l lcid="1044">Microsoft-team</l></lt>
-      </title>
-      <description />
-      <keywords />
-      <robots />
-      <cldocid />
-      <clprocess />
-      <cltopic />
-      <clauthor />
-      <cleditor />
-      <clapprover />
-      <clstatus>0</clstatus>
-      <clrevision />
-      <clrevdate />
-    </md>
-  </Scc1f42d5-ba83-47d8-b7aa-b58d7eb36f1b>
-  <bd4bce82a-7583-4876-9a16-e29f01a4a6e8>
-    <FullPath>C:\Projects\Microsoft Teams assist project\Pin a chat.clrx</FullPath>
-    <User>phl</User>
-    <Connector>BWEBTEAMS365</Connector>
-    <Company>
-    </Company>
-    <Replayed>
-    </Replayed>
-    <md>
-      <title>
-        <lt>
-          <l lcid="1030">Fastgøre en chat</l>
-          <l lcid="1031">Pin einen Chat</l>
-          <l lcid="1044">Fest en chat</l>
-        </lt>
-      </title>
-    </md>
-  </bd4bce82a-7583-4876-9a16-e29f01a4a6e8>
-  <b1059d366-4315-4bcb-91b9-0fdd8a877583>
-    <FullPath>C:\Projects\Microsoft Teams assist project\Pin and unpin a channel.clrx</FullPath>
-    <User>phl</User>
-    <Connector>BWEBOUTLOOK365</Connector>
-    <Company>
-    </Company>
-    <Replayed>
-    </Replayed>
-    <md>
-      <title>
-        <lt>
-          <l lcid="1031">Pin und Entpinen eines Kanals</l>
-          <l lcid="1030">Fastgøre og frigøre en kanal</l>
-          <l lcid="1044">Fest og løsne en kanal</l>
-        </lt>
-      </title>
-    </md>
-  </b1059d366-4315-4bcb-91b9-0fdd8a877583>
-  <bc99a9552-8732-493c-93c9-ef3de4d45b1e>
-    <FullPath>C:\Projects\Microsoft Teams assist project\Plan and schedule a live event.clrx</FullPath>
-    <User>phl</User>
-    <Connector>BWEBTEAMS365</Connector>
-    <Company>
-    </Company>
-    <Replayed>
-    </Replayed>
-    <md>
-      <title>
-        <lt>
-          <l lcid="1030">Planlægge og planlægge en livebegivenhed</l>
-          <l lcid="1031">Planen und Planen eines Live-Events</l>
-          <l lcid="1044">Planlegge og planlegge et direktesendt arrangement</l>
-        </lt>
-      </title>
-    </md>
-  </bc99a9552-8732-493c-93c9-ef3de4d45b1e>
-  <b4bf59fa3-f801-4a52-9769-fc5bf5bbc4e9>
-    <FullPath>C:\Projects\Microsoft Teams assist project\Review meeting notes from a private meeting.clrx</FullPath>
-    <User>phl</User>
-    <Connector>BWEBTEAMS365</Connector>
-    <Company>
-    </Company>
-    <Replayed>
-    </Replayed>
-    <md>
-      <title>
-        <lt>
-          <l lcid="1030">Gennemse mødenoter fra et privat møde</l>
-          <l lcid="1031">Überprüfen von Besprechungsnotizen aus einer privaten Besprechung</l>
-          <l lcid="3082">Revisar las notas de una reunión privada</l>
-          <l lcid="1044">Se gjennom møtenotater fra et privat møte</l>
-        </lt>
-      </title>
-    </md>
-  </b4bf59fa3-f801-4a52-9769-fc5bf5bbc4e9>
-  <b84121ef3-ea23-46d5-bf91-53193f51de36>
-    <FullPath>C:\Projects\Microsoft Teams assist project\Schedule a meeting.clrx</FullPath>
-    <User>phl</User>
-    <Connector>BWEBTEAMS365</Connector>
-    <Company>
-    </Company>
-    <Replayed>
-    </Replayed>
-    <md>
-      <title>
-        <lt>
-          <l lcid="1030">Planlægge et møde</l>
-          <l lcid="1031">Planen einer Besprechung</l>
-          <l lcid="1044">Planlegge et møte</l>
-        </lt>
-      </title>
-    </md>
-  </b84121ef3-ea23-46d5-bf91-53193f51de36>
-  <B1cc6ce57-3a4b-4ea0-860a-1d6428c4803b>
-    <FullPath>C:\Projects\Microsoft Teams assist project\Set up and attend live events.clbx</FullPath>
-    <User>phl</User>
-    <Connector>
-    </Connector>
-    <Company>
-    </Company>
-    <Replayed>
-    </Replayed>
-    <md>
-      <title>
-        <lt>
-          <l lcid="1030">Konfigurere og deltage i live events</l>
-          <l lcid="1031">Einrichten und Besuchen von Live-Events</l>
-          <l lcid="1044">Sette opp og delta på direktesendinger</l>
-        </lt>
-      </title>
-    </md>
-  </B1cc6ce57-3a4b-4ea0-860a-1d6428c4803b>
-  <baf317935-f315-4570-b863-bc45799ccda2>
-    <FullPath>C:\Projects\Microsoft Teams assist project\Share content in a meeting in Teams.clrx</FullPath>
-    <User>phl</User>
-    <Connector>BWEBTEAMS365</Connector>
-    <Company>
-    </Company>
-    <Replayed>
-    </Replayed>
-    <md>
-      <title>
-        <lt>
-          <l lcid="1030">Dele indhold i et møde i Teams</l>
-          <l lcid="1031">Freigeben von Inhalten in einer Besprechung in Teams</l>
-          <l lcid="3082">Compartir contenido en una reunión en los equipos</l>
-          <l lcid="1044">Dele innhold i et møte i Teams</l>
-        </lt>
-      </title>
-    </md>
-  </baf317935-f315-4570-b863-bc45799ccda2>
-  <B6a84850f-eae2-454b-bf72-b46508f050d3>
-    <FullPath>C:\Projects\Microsoft Teams assist project\Start chats and calls.clbx</FullPath>
-    <User>phl</User>
-    <Connector>
-    </Connector>
-    <Company>
-    </Company>
-    <Replayed>
-    </Replayed>
-    <md>
-      <title>
-        <lt>
-          <l lcid="1030">Start chats og opkald</l>
-          <l lcid="1031">Starten von Chats und Anrufen</l>
-          <l lcid="1044">Starte samtaler og samtaler</l>
-        </lt>
-      </title>
-    </md>
-  </B6a84850f-eae2-454b-bf72-b46508f050d3>
-  <b856e6604-b780-4b87-813b-cfe711c6b76c>
-    <FullPath>C:\Projects\Microsoft Teams assist project\Start chats.clrx</FullPath>
-    <User>phl</User>
-    <Connector>BWEBTEAMS365</Connector>
-    <Company>
-    </Company>
-    <Replayed>
-    </Replayed>
-    <md>
-      <title>
-        <lt>
-          <l lcid="1030">Start chats</l>
-          <l lcid="1031">Chats starten</l>
-          <l lcid="1033">Start chats</l>
-          <l lcid="1035">Aloita keskustelut</l>
-          <l lcid="1040">Avviare le chat</l>
-          <l lcid="1043">Chats starten</l>
-          <l lcid="3081">Start chats</l>
-          <l lcid="1053">Starta chattar</l>
-          <l lcid="1036">Démarrer les chats</l>
-          <l lcid="1041">チャットを開始する</l>
-          <l lcid="3082">Iniciar chats</l>
-          <l lcid="1044">Start samtaler</l>
+          <l lcid="3082">Añadir un contacto a una cuenta</l>
+          <l lcid="1030">Føje en kontaktperson til en konto</l>
+          <l lcid="1031">Hinzufügen eines Kontakts zu einem Konto</l>
+          <l lcid="1035">Yhteys henkilön lisääminen tiliin</l>
+          <l lcid="1043">Een contact persoon toevoegen aan een account</l>
         </lt>
       </title>
       <description />
@@ -454,11 +30,11 @@
       <clrevision />
       <clrevdate />
     </md>
-  </b856e6604-b780-4b87-813b-cfe711c6b76c>
-  <bb8999682-d0d5-4dc9-9472-2de511bb978c>
-    <FullPath>C:\Projects\Microsoft Teams assist project\Take meeting notes in Teams.clrx</FullPath>
+  </b55b0dc9c-a82b-45d6-91ca-4a5735bdad68>
+  <ba79ddb00-ed83-44d5-bd05-87a2a5fb3664>
+    <FullPath>C:\Projects\Microsoft Dynamics CE assist project\Add Leads to a Marketing List.clrx</FullPath>
     <User>phl</User>
-    <Connector>BWEBTEAMS365</Connector>
+    <Connector>BMSCRM</Connector>
     <Company>
     </Company>
     <Replayed>
@@ -466,71 +42,29 @@
     <md>
       <title>
         <lt>
-          <l lcid="1030">Tage mødenoter i Teams</l>
-          <l lcid="1031">Meetingnotizen in Teams machen</l>
-          <l lcid="3082">Tome notas de la reunión en los equipos</l>
-          <l lcid="1044">Ta møtenotater i Teams</l>
+          <l lcid="1030">Føje kundeemner til en Marketing liste</l>
+          <l lcid="1031">Hinzufügen von Leads zu einer Marketingliste</l>
+          <l lcid="1035">Liidien lisääminen markkinointi luetteloon</l>
+          <l lcid="3082">Agregar clientes potenciales a una lista de marketing</l>
+          <l lcid="1043">Leads toevoegen aan een marketing lijst</l>
         </lt>
       </title>
+      <description />
+      <keywords />
+      <robots />
+      <cldocid />
+      <clprocess />
+      <cltopic />
+      <clauthor />
+      <cleditor />
+      <clapprover />
+      <clstatus>0</clstatus>
+      <clrevision />
+      <clrevdate />
     </md>
-  </bb8999682-d0d5-4dc9-9472-2de511bb978c>
-  <Bbe2073f8-a1b7-42a3-9a97-e5aea0611092>
-    <FullPath>C:\Projects\Microsoft Teams assist project\Upload and find files.clbx</FullPath>
-    <User>phl</User>
-    <Connector>
-    </Connector>
-    <Company>
-    </Company>
-    <Replayed>
-    </Replayed>
-    <md>
-      <title>
-        <lt>
-          <l lcid="1030">Upload and find files</l>
-          <l lcid="1031">Hochladen und Suchen von Dateien</l>
-          <l lcid="1044">Laste opp og finne filer</l>
-        </lt>
-      </title>
-    </md>
-  </Bbe2073f8-a1b7-42a3-9a97-e5aea0611092>
-  <b367e0833-69b7-4d41-afc8-292f2454b8d5>
-    <FullPath>C:\Projects\Microsoft Teams assist project\Upload and share files.clrx</FullPath>
-    <User>phl</User>
-    <Connector>BWEBOUTLOOK365</Connector>
-    <Company>
-    </Company>
-    <Replayed>
-    </Replayed>
-    <md>
-      <title>
-        <lt>
-          <l lcid="1030">Overføre og dele filer</l>
-          <l lcid="1031">Hochladen und Freigeben von Dateien</l>
-          <l lcid="1044">Laste opp og dele filer</l>
-        </lt>
-      </title>
-    </md>
-  </b367e0833-69b7-4d41-afc8-292f2454b8d5>
-  <bf0d4b6d8-acb4-440f-aa06-7f501864fb7a>
-    <FullPath>C:\Projects\Microsoft Teams assist project\Welcome to Microsoft Teams.clrx</FullPath>
-    <User>phl</User>
-    <Connector>BWEBOUTLOOK365</Connector>
-    <Company>
-    </Company>
-    <Replayed>
-    </Replayed>
-    <md>
-      <title>
-        <lt>
-          <l lcid="1031">Willkommen bei Microsoft Teams</l>
-          <l lcid="1030">Velkommen til Microsoft Teams</l>
-          <l lcid="1044">Velkommen til Microsoft Teams</l>
-        </lt>
-      </title>
-    </md>
-  </bf0d4b6d8-acb4-440f-aa06-7f501864fb7a>
-  <Bbf4604c8-9641-4c21-a567-4c89e8f139ae>
-    <FullPath>C:\Projects\Microsoft Teams assist project\Work with posts and messages.clbx</FullPath>
+  </ba79ddb00-ed83-44d5-bd05-87a2a5fb3664>
+  <C1a4630b7-1f99-40a4-80ad-48cc19cb6d70>
+    <FullPath>C:\Projects\Microsoft Dynamics CE assist project\ClickLearn Help Dynamics CE.clchx</FullPath>
     <User>phl</User>
     <Connector>
     </Connector>
@@ -541,11 +75,354 @@
     <md>
       <title>
         <lt>
-          <l lcid="1030">Arbejde med indlæg og meddelelser</l>
-          <l lcid="1031">Arbeiten mit Beiträgen und Nachrichten</l>
-          <l lcid="1044">Arbeide med innlegg og meldinger</l>
+          <l lcid="1033">ClickLearn Help</l>
+          <l lcid="1030">ClickLearn hjælp</l>
+          <l lcid="1031">ClickLearn-Hilfe</l>
+          <l lcid="1043">ClickLearn Help</l>
+          <l lcid="1035">ClickLearn-ohje</l>
+          <l lcid="2057">ClickLearn Help</l>
+          <l lcid="3082">Haga clic en Ayuda de Learn</l>
+          <l lcid="1036">ClickLearn Aide</l>
+        </lt>
+      </title>
+      <description />
+      <keywords />
+      <robots />
+      <cldocid />
+      <clprocess />
+      <cltopic />
+      <clauthor />
+      <cleditor />
+      <clapprover />
+      <clstatus>0</clstatus>
+      <clrevision />
+      <clrevdate />
+    </md>
+  </C1a4630b7-1f99-40a4-80ad-48cc19cb6d70>
+  <b71b6f93c-0c46-4975-be16-e3ebe338ec78>
+    <FullPath>C:\Projects\Microsoft Dynamics CE assist project\Create a Case.clrx</FullPath>
+    <User>phl</User>
+    <Connector>BMSCRM</Connector>
+    <Company>
+    </Company>
+    <Replayed>
+    </Replayed>
+    <md>
+      <title>
+        <lt>
+          <l lcid="1033">Create a Case</l>
+          <l lcid="1030">Oprette en sag</l>
+          <l lcid="1031">Erstellen einer Anfrage</l>
+          <l lcid="1043">Een aanvraag maken</l>
+          <l lcid="1035">Luo palvelu pyynnön</l>
+          <l lcid="2057">Create a Case</l>
+          <l lcid="3082">Crear un caso</l>
+          <l lcid="1036">Créer un étui</l>
+        </lt>
+      </title>
+      <description />
+      <keywords />
+      <robots />
+      <cldocid />
+      <clprocess />
+      <cltopic />
+      <clauthor />
+      <cleditor />
+      <clapprover />
+      <clstatus>0</clstatus>
+      <clrevision />
+      <clrevdate />
+    </md>
+  </b71b6f93c-0c46-4975-be16-e3ebe338ec78>
+  <bed2f0505-dae4-4faf-ba0d-749f64943035>
+    <FullPath>C:\Projects\Microsoft Dynamics CE assist project\Create a Customer.clrx</FullPath>
+    <User>phl</User>
+    <Connector>BMSCRM</Connector>
+    <Company>
+    </Company>
+    <Replayed>
+    </Replayed>
+    <md>
+      <title>
+        <lt>
+          <l lcid="3082">Crear un cliente</l>
         </lt>
       </title>
     </md>
-  </Bbf4604c8-9641-4c21-a567-4c89e8f139ae>
+  </bed2f0505-dae4-4faf-ba0d-749f64943035>
+  <b1eb1dbad-b59d-4239-9e97-5d5e8caa7e07>
+    <FullPath>C:\Projects\Microsoft Dynamics CE assist project\Create a Field Service Work Order.clrx</FullPath>
+    <User>phl</User>
+    <Connector>BMSCRM</Connector>
+    <Company>
+    </Company>
+    <Replayed>
+    </Replayed>
+    <md>
+      <title>
+        <lt>Create a Field Service Work Order<l lcid="1033">Create a Field Service Work Order</l><l lcid="1030">Oprette en arbejdsordre for Field service</l><l lcid="1031">Erstellen eines Felddienstarbeitsauftrags</l><l lcid="1043">Een Field Service-werk order maken</l><l lcid="1035">Field Servicen Työtilauksen luominen</l><l lcid="2057">Create a Field Service Work Order</l><l lcid="3082">Crear una orden de trabajo de Field Service</l><l lcid="1036">Créer un ordre de travail sur le terrain</l></lt>
+      </title>
+      <description />
+      <keywords />
+      <robots />
+      <cldocid />
+      <clprocess />
+      <cltopic />
+      <clauthor />
+      <cleditor />
+      <clapprover />
+      <clstatus>0</clstatus>
+      <clrevision />
+      <clrevdate />
+    </md>
+  </b1eb1dbad-b59d-4239-9e97-5d5e8caa7e07>
+  <b75cb7f9b-f994-4586-929a-65b1f5dd5feb>
+    <FullPath>C:\Projects\Microsoft Dynamics CE assist project\Create a Lead.clrx</FullPath>
+    <User>phl</User>
+    <Connector>BMSCRM</Connector>
+    <Company>
+    </Company>
+    <Replayed>
+    </Replayed>
+    <md>
+      <title>
+        <lt>Create a Lead<l lcid="1033">Create a Lead</l><l lcid="1030">Oprette et kundeemne</l><l lcid="1031">Erstellen eines Leads</l><l lcid="1043">Een lead maken</l><l lcid="1035">Luo liidi</l><l lcid="2057">Create a Lead</l><l lcid="3082">Crear un cliente potencial</l><l lcid="1036">Créer un plomb</l></lt>
+      </title>
+      <description />
+      <keywords />
+      <robots />
+      <cldocid />
+      <clprocess />
+      <cltopic />
+      <clauthor />
+      <cleditor />
+      <clapprover />
+      <clstatus>0</clstatus>
+      <clrevision />
+      <clrevdate />
+    </md>
+  </b75cb7f9b-f994-4586-929a-65b1f5dd5feb>
+  <bde35e6d2-d7e8-495e-8924-801b71c02287>
+    <FullPath>C:\Projects\Microsoft Dynamics CE assist project\Create a Marketing list.clrx</FullPath>
+    <User>phl</User>
+    <Connector>BMSCRM</Connector>
+    <Company>
+    </Company>
+    <Replayed>
+    </Replayed>
+    <md>
+      <title>
+        <lt>Create a Marketing list<l lcid="1033">Create a Marketing list</l><l lcid="1030">Oprette en Marketing liste</l><l lcid="1031">Erstellen einer Marketingliste</l><l lcid="1043">Een marketing lijst maken</l><l lcid="1035">Markkinointi luettelon luominen</l><l lcid="2057">Create a Marketing list</l><l lcid="3082">Crear una lista de marketing</l><l lcid="1036">Créer une liste marketing</l></lt>
+      </title>
+      <description />
+      <keywords />
+      <robots />
+      <cldocid />
+      <clprocess />
+      <cltopic />
+      <clauthor />
+      <cleditor />
+      <clapprover />
+      <clstatus>0</clstatus>
+      <clrevision />
+      <clrevdate />
+    </md>
+  </bde35e6d2-d7e8-495e-8924-801b71c02287>
+  <bd7f15223-0655-4679-9743-16a1454294ad>
+    <FullPath>C:\Projects\Microsoft Dynamics CE assist project\Create an account.clrx</FullPath>
+    <User>phl</User>
+    <Connector>BMSCRM</Connector>
+    <Company>
+    </Company>
+    <Replayed>
+    </Replayed>
+    <md>
+      <title>
+        <lt>Create an account<l lcid="1033">Create an account</l><l lcid="1030">Opret en konto</l><l lcid="1031">Erstellen eines Kontos</l><l lcid="1043">Maak een account aan</l><l lcid="1035">Luo tili</l><l lcid="2057">Create an account</l><l lcid="3082">Crear una cuenta</l><l lcid="1036">Créer un compte</l></lt>
+      </title>
+      <description />
+      <keywords />
+      <robots />
+      <cldocid />
+      <clprocess />
+      <cltopic />
+      <clauthor />
+      <cleditor />
+      <clapprover />
+      <clstatus>0</clstatus>
+      <clrevision />
+      <clrevdate />
+    </md>
+  </bd7f15223-0655-4679-9743-16a1454294ad>
+  <Sb14c8d1b-fda9-4dd1-bd57-b05c36279d53>
+    <FullPath>C:\Projects\Microsoft Dynamics CE assist project\Dynamics 365 CE Learning Portal Assist project.clsx</FullPath>
+    <User>phl</User>
+    <Connector>
+    </Connector>
+    <Company>
+    </Company>
+    <Replayed>
+    </Replayed>
+    <md>
+      <title>
+        <lt>Dynamics 365 CRM Learning Portal<l lcid="1033">Dynamics 365 CRM Learning Portal</l><l lcid="1030">Dynamics 365 CRM Læringsportal</l><l lcid="1031">Dynamics 365 CRM Lernportal</l><l lcid="1035">Dynamics 365 CRM Oppimisportaali</l><l lcid="1040">Portale di apprendimento su CRM di Dynamics 365</l><l lcid="1043">Dynamics 365 CRM Leerportaal</l><l lcid="3082">Portal de aprendizaje de Dynamics 365 CRM</l></lt>
+      </title>
+      <description />
+      <keywords />
+      <robots />
+      <cldocid />
+      <clprocess />
+      <cltopic />
+      <clauthor />
+      <cleditor />
+      <clapprover />
+      <clstatus>0</clstatus>
+      <clrevision />
+      <clrevdate />
+    </md>
+  </Sb14c8d1b-fda9-4dd1-bd57-b05c36279d53>
+  <B1d1275ac-f636-4b62-b0e1-ddb15fa0e91c>
+    <FullPath>C:\Projects\Microsoft Dynamics CE assist project\Field Service.clbx</FullPath>
+    <User>phl</User>
+    <Connector>
+    </Connector>
+    <Company>
+    </Company>
+    <Replayed>
+    </Replayed>
+    <md>
+      <title>
+        <lt>
+          <l lcid="3082">Servicio de campo</l>
+          <l lcid="1033">Field Service</l>
+          <l lcid="1030">Field service</l>
+          <l lcid="1031">Außendienst</l>
+          <l lcid="1043">Field Service</l>
+          <l lcid="1035">Field Service</l>
+          <l lcid="2057">Field Service</l>
+          <l lcid="1036">Service sur le terrain</l>
+        </lt>
+      </title>
+      <description />
+      <keywords />
+      <robots />
+      <cldocid />
+      <clprocess />
+      <cltopic />
+      <clauthor />
+      <cleditor />
+      <clapprover />
+      <clstatus>0</clstatus>
+      <clrevision />
+      <clrevdate />
+    </md>
+  </B1d1275ac-f636-4b62-b0e1-ddb15fa0e91c>
+  <B509399fc-095a-4450-92bd-e37840242eaf>
+    <FullPath>C:\Projects\Microsoft Dynamics CE assist project\Marketing.clbx</FullPath>
+    <User>phl</User>
+    <Connector>
+    </Connector>
+    <Company>
+    </Company>
+    <Replayed>
+    </Replayed>
+    <md>
+      <title>
+        <lt>
+          <l lcid="3082">Márketing</l>
+          <l lcid="1033">Marketing</l>
+          <l lcid="1030">Marketing</l>
+          <l lcid="1031">Marketing</l>
+          <l lcid="1043">Marketing</l>
+          <l lcid="1035">Markkinointi</l>
+          <l lcid="2057">Marketing</l>
+          <l lcid="1036">Marketing</l>
+        </lt>
+      </title>
+      <description />
+      <keywords />
+      <robots />
+      <cldocid />
+      <clprocess />
+      <cltopic />
+      <clauthor />
+      <cleditor />
+      <clapprover />
+      <clstatus>0</clstatus>
+      <clrevision />
+      <clrevdate />
+    </md>
+  </B509399fc-095a-4450-92bd-e37840242eaf>
+  <B1257e92a-4ce7-41fa-9ff0-d65f65666490>
+    <FullPath>C:\Projects\Microsoft Dynamics CE assist project\Sales.clbx</FullPath>
+    <User>phl</User>
+    <Connector>
+    </Connector>
+    <Company>
+    </Company>
+    <Replayed>
+    </Replayed>
+    <md>
+      <title>
+        <lt>
+          <l lcid="3082">Ventas</l>
+          <l lcid="1033">Sales</l>
+          <l lcid="1030">Salg</l>
+          <l lcid="1031">Verkauf</l>
+          <l lcid="1043">Verkoop</l>
+          <l lcid="1035">Myynti</l>
+          <l lcid="2057">Sales</l>
+          <l lcid="1036">Ventes</l>
+        </lt>
+      </title>
+      <description />
+      <keywords />
+      <robots />
+      <cldocid />
+      <clprocess />
+      <cltopic />
+      <clauthor />
+      <cleditor />
+      <clapprover />
+      <clstatus>0</clstatus>
+      <clrevision />
+      <clrevdate />
+    </md>
+  </B1257e92a-4ce7-41fa-9ff0-d65f65666490>
+  <B0098336a-c5b3-4b94-97a8-66efc56fbcf6>
+    <FullPath>C:\Projects\Microsoft Dynamics CE assist project\Services.clbx</FullPath>
+    <User>phl</User>
+    <Connector>
+    </Connector>
+    <Company>
+    </Company>
+    <Replayed>
+    </Replayed>
+    <md>
+      <title>
+        <lt>
+          <l lcid="3082">Servicios</l>
+          <l lcid="1033">Services</l>
+          <l lcid="1030">Tjenester</l>
+          <l lcid="1031">Dienstleistungen</l>
+          <l lcid="1043">Diensten</l>
+          <l lcid="1035">Palvelut</l>
+          <l lcid="2057">Services</l>
+          <l lcid="1036">Services</l>
+        </lt>
+      </title>
+      <description />
+      <keywords />
+      <robots />
+      <cldocid />
+      <clprocess />
+      <cltopic />
+      <clauthor />
+      <cleditor />
+      <clapprover />
+      <clstatus>0</clstatus>
+      <clrevision />
+      <clrevdate />
+    </md>
+  </B0098336a-c5b3-4b94-97a8-66efc56fbcf6>
 </ClickLearn>
