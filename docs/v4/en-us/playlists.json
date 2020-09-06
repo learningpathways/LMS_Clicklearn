@@ -194,12 +194,13 @@
     "SubjectId": "",
     "Source": "ClickLearn",
     "CatId": "9eb8fc25-dd5b-4459-81e9-ae382aca7a78",
-    "Description": "The following describes the process for creating a new marketing list targeted at either contacts, leads or accounts.To complete the process, you must provide following information:Logical name,Purpose,Target audience (Leads, Contacts or Accounts)."    "StatusTagId": "",
+      "Description": "The following describes the process for creating a new marketing list targeted at either contacts, leads or accounts.To complete the process, you must provide following information:Logical name,Purpose,Target audience (Leads, Contacts or Accounts).",
+        "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [
-     "d1233064-273d-4d58-a955-686688f4b529",
-       "b65ec000-8e8e-47c6-b05c-d2763fe95d42"
-    ]
+      "Assets": [
+        "d1233064-273d-4d58-a955-686688f4b529",
+        "b65ec000-8e8e-47c6-b05c-d2763fe95d42"
+      ]
   },
     {
     "Id": "b55517cc-a4f4-405b-b46f-977f39a91e3c",
