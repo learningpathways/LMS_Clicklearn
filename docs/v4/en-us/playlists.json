@@ -45,7 +45,7 @@
     "SubjectId": "",
     "Source": "ClickLearn",
     "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
-    "Description": "In Microsoft Teams, teams are groups of people brought together for work, projects, or common interests.Teams are made up of two types of channels — standard (available and visible to everyone) and private (focused, private conversations with a specific audience). Each channel is built around a topic like 'Team Events,' a department name, or just for fun. Channels are where you hold meetings, have conversations, and work on files together.The tabs at the top of each channel link to your favorite files, apps, and services.",
+    "Description": "In Microsoft Teams, teams are groups of people brought together for work, projects, or common interests.Teams are made up of two types of channels — standard (available and visible to everyone) and private (focused, private conversations with a specific audience).",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -99,7 +99,7 @@
     "SubjectId": "",
     "Source": "ClickLearn",
     "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
-    "Description": "If you have information or an announcement that needs to be shared across teams and channels. Then you can post that message in your team or channel and style it.Here is how to create and format a post to start a conversation in a channel.",
+    "Description": "If you have information or an announcement that needs to be shared across teams and channels. Then you can post that message in your team or channel and style it.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -116,7 +116,7 @@
     "SubjectId": "",
     "Source": "ClickLearn",
     "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
-    "Description": "Your calendar in Teams is connected to your Exchange calendar. In other words, when you schedule a meeting in Outlook, it'll show up in Teams, and vice versa.Every meeting scheduled in Teams is automatically made into an online meeting",
+    "Description": "Your calendar in Teams is connected to your Exchange calendar. In other words, when you schedule a meeting in Outlook, it'll show up in Teams, and vice versa.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -158,7 +158,7 @@
     "SubjectId": "",
     "Source": "ClickLearn",
     "CatId": "9eb8fc25-dd5b-4459-81e9-ae382aca7a78",
-    "Description": "The following describes the process for creating a new case for an existing account.To complete the process, you must have the following information available:Customer name (Account), Contact (requester)Case, title (short description of case)",
+    "Description": "The following describes the process for creating a new case for an existing account.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -175,7 +175,7 @@
     "SubjectId": "",
     "Source": "ClickLearn",
     "CatId": "9eb8fc25-dd5b-4459-81e9-ae382aca7a78",
-    "Description": "The following describes the process for creating a new contact on an existing account. If you create contacts on behalf of the actual account owner, be sure to assign the correct owner after completing this procedure.To complete the process, you must have the following information available:Full name,Job title,Email address,Mobile phone number.",
+    "Description": "The following describes the process for creating a new contact on an existing account. If you create contacts on behalf of the actual account owner, be sure to assign the correct owner after completing this procedure.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -194,7 +194,7 @@
     "SubjectId": "",
     "Source": "ClickLearn",
     "CatId": "9eb8fc25-dd5b-4459-81e9-ae382aca7a78",
-      "Description": "The following describes the process for creating a new marketing list targeted at either contacts, leads or accounts.To complete the process, you must provide following information:Logical name,Purpose,Target audience (Leads, Contacts or Accounts).",
+      "Description": "The following describes the process for creating a new marketing list targeted at either contacts, leads or accounts.",
         "StatusTagId": "",
     "StatusNote": "",
       "Assets": [
@@ -202,7 +202,7 @@
         "b65ec000-8e8e-47c6-b05c-d2763fe95d42"
       ]
   },
-    {
+  {
     "Id": "b55517cc-a4f4-405b-b46f-977f39a91e3c",
     "Title": "Field Service",
     "Image": "playlists/Settings.png",
@@ -212,11 +212,11 @@
     "SubjectId": "",
     "Source": "ClickLearn",
     "CatId": "9eb8fc25-dd5b-4459-81e9-ae382aca7a78",
-    "Description": "The following describes the process for creating a new field service work order.To complete the process, you must have the following information available:Customer name (Account),Applicable price list.",
+    "Description": "The following describes the process for creating a new field service work order.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
-     "6f208b1e-32a8-4cb3-9966-6bf5d04d6a52"
+      "6f208b1e-32a8-4cb3-9966-6bf5d04d6a52"
     ]
   }
 ]
