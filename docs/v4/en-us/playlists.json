@@ -9,7 +9,7 @@
     "SubjectId": "",
     "Source": "ClickLearn",
     "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
-    "Description": "Learn About Teams features and benifits",
+    "Description": "Microsoft Teams is a collaboration app that helps your team stay organized and have conversations - all in one place. Here's a quick look at the left hand side of Teams.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -26,7 +26,7 @@
     "SubjectId": "",
     "Source": "ClickLearn",
     "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
-    "Description": "Learn About Quick Book features and benifits",
+    "Description": "To get your team up and running in Microsoft Teams, create a team, add people, and add channels.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -45,7 +45,7 @@
     "SubjectId": "",
     "Source": "ClickLearn",
     "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
-    "Description": "Learn About Sap4Hana features and benifits",
+    "Description": "In Microsoft Teams, teams are groups of people brought together for work, projects, or common interests.Teams are made up of two types of channels — standard (available and visible to everyone) and private (focused, private conversations with a specific audience). Each channel is built around a topic like 'Team Events,' a department name, or just for fun. Channels are where you hold meetings, have conversations, and work on files together.The tabs at the top of each channel link to your favorite files, apps, and services.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -63,7 +63,7 @@
     "SubjectId": "",
     "Source": "ClickLearn",
     "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
-    "Description": "Learn About PowerApps features and benifits",
+    "Description": "Anywhere in Teams, look for the paperclip icon to Attach a file. Alternately:- Go to the Files tab.- Select Upload.- Select single or multiple files from device computer or OneDrive for Business account.- Select Open.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -80,7 +80,7 @@
     "SubjectId": "",
     "Source": "ClickLearn",
     "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
-    "Description": "Learn About EOI features and benifits",
+    "Description": "Start 1:1 or group chats to collaborate with a smaller group or to talk privately, and pin chats for quick access.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -99,7 +99,7 @@
     "SubjectId": "",
     "Source": "ClickLearn",
     "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
-    "Description": "Learn About EOI features and benifits",
+    "Description": "If you have information or an announcement that needs to be shared across teams and channels. Then you can post that message in your team or channel and style it.Here is how to create and format a post to start a conversation in a channel.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -116,7 +116,7 @@
     "SubjectId": "",
     "Source": "ClickLearn",
     "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
-    "Description": "Learn About EOI features and benifits",
+    "Description": "Your calendar in Teams is connected to your Exchange calendar. In other words, when you schedule a meeting in Outlook, it'll show up in Teams, and vice versa.Every meeting scheduled in Teams is automatically made into an online meeting",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -139,7 +139,7 @@
     "SubjectId": "",
     "Source": "ClickLearn",
     "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
-    "Description": "Learn About EOI features and benifits",
+    "Description": "Teams live events is an extension of Teams meetings, enabling you to produce events for large online audiences with more control over video, audience interaction, and reporting.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -158,7 +158,7 @@
     "SubjectId": "",
     "Source": "ClickLearn",
     "CatId": "9eb8fc25-dd5b-4459-81e9-ae382aca7a78",
-    "Description": "Learn About CRM features and benifits",
+    "Description": "The following describes the process for creating a new case for an existing account.To complete the process, you must have the following information available:Customer name (Account), Contact (requester)Case, title (short description of case)",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -175,7 +175,7 @@
     "SubjectId": "",
     "Source": "ClickLearn",
     "CatId": "9eb8fc25-dd5b-4459-81e9-ae382aca7a78",
-    "Description": "Learn About CRM features and benifits",
+    "Description": "The following describes the process for creating a new contact on an existing account. If you create contacts on behalf of the actual account owner, be sure to assign the correct owner after completing this procedure.To complete the process, you must have the following information available:Full name,Job title,Email address,Mobile phone number.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -194,8 +194,7 @@
     "SubjectId": "",
     "Source": "ClickLearn",
     "CatId": "9eb8fc25-dd5b-4459-81e9-ae382aca7a78",
-    "Description": "Learn About CRM features and benifits",
-    "StatusTagId": "",
+    "Description": "The following describes the process for creating a new marketing list targeted at either contacts, leads or accounts.To complete the process, you must provide following information:Logical name,Purpose,Target audience (Leads, Contacts or Accounts)."    "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
      "d1233064-273d-4d58-a955-686688f4b529",
@@ -212,7 +211,7 @@
     "SubjectId": "",
     "Source": "ClickLearn",
     "CatId": "9eb8fc25-dd5b-4459-81e9-ae382aca7a78",
-    "Description": "Learn About CRM features and benifits",
+    "Description": "The following describes the process for creating a new field service work order.To complete the process, you must have the following information available:Customer name (Account),Applicable price list.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
