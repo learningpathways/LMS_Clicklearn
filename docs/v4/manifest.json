@@ -12,9 +12,7 @@
   "AssetOrigins": [
     "https://github.com",
     "https://content.development.clicklearn.dk",
-    "https://login.microsoftonline.com",
-    "https://support.office.com",
-    "https://docs.microsoft.com"
+    "https://content.clicklearn.dk"
   ],
   "Languages": [
     "en-US"
